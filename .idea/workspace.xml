@@ -1,30 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d1735c4-400c-4960-829b-e5269e930d43" name="변경" comment="" />
+    <list default="true" id="8d1735c4-400c-4960-829b-e5269e930d43" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch03/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ch01/collection.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ch01/collection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ch01/dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ch01/dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ch01/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ch01/list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ch01/print.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ch01/print.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ch01/set.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ch01/set.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ch01/tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ch01/tuple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ch01/type.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ch01/type.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ch02/for.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ch02/for.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ch02/if.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ch02/if.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2w47qjdkW0yKOOTiudEZmKIw5uJ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.collection.executor": "Run",
+    "Python.dict.executor": "Run",
+    "Python.for.executor": "Run",
+    "Python.if.executor": "Run",
+    "Python.list.executor": "Run",
+    "Python.print.executor": "Run",
+    "Python.set.executor": "Run",
+    "Python.tuple.executor": "Run",
+    "Python.type.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main-"
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "indent.rainbow.settings.IrConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\AD_py\Python_study\src\main" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
